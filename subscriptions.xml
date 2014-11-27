@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>Library</title>
+	</head>
+	<body>
+		<outline htmlUrl="http://8thlight.github.com/" title="8th Light Blog" xmlUrl="http://blog.8thlight.com/feed/atom.xml" type="rss" text="8th Light Blog"/>
+		<outline htmlUrl="http://www.whitewashing.de/" title="Benjamin Eberlei" xmlUrl="http://www.whitewashing.de/rss.xml" type="rss" text="Benjamin Eberlei - Whitewashing"/>
+		<outline htmlUrl="http://csswizardry.com/" title="CSS Wizardry" xmlUrl="http://feeds.feedburner.com/csswizardrycom" type="rss" text="Harry Roberts - CSS Wizardry"/>
+		<outline htmlUrl="http://everzet.com/" title="everzet's blog" xmlUrl="http://everzet.com/rss" type="rss" text="Everzet's Blog"/>
+		<outline htmlUrl="http://fabien.potencier.org/" title="Fabien Potencier" xmlUrl="http://feeds.fabien.potencier.org/aidedecamp" type="rss" text="Fabien Potencier"/>
+		<outline htmlUrl="https://igor.io/" title="Igor Wiedler" xmlUrl="https://igor.io/index.atom" type="rss" text="Igor Wiedler - igorw"/>
+		<outline htmlUrl="http://seld.be/" title="Jordi Boggiano" xmlUrl="http://feeds.seld.be/blog-seld" type="rss" text="Jordi Boggiano"/>
+		<outline htmlUrl="/" title="Marco piveta" xmlUrl="http://ocramius.github.io/atom.xml" type="rss" text="Marco Piveta - ocramius"/>
+		<outline htmlUrl="http://verraes.net/" title="Mathias Verraes" xmlUrl="http://verraes.net/feed.atom" type="rss" text="Mathias Verraes"/>
+		<outline htmlUrl="http://php-and-symfony.matthiasnoback.nl/" title="Matthias Noback - PHP &amp; Symfony" xmlUrl="http://php-and-symfony.matthiasnoback.nl/atom.xml" type="rss" text="Matthias Noback - PHP &amp; Symfony"/>
+		<outline htmlUrl="http://nikic.github.com/" title="nikic's blog" xmlUrl="http://nikic.github.io/rss.xml" type="rss" text="Nikic's Blog"/>
+		<outline htmlUrl="https://philsturgeon.uk/" title="Phil Sturgeon" xmlUrl="https://philsturgeon.uk/feed.xml" type="rss" text="Phil Sturgeon"/>
+		<outline htmlUrl="http://symfony.com/blog/" title="Symfony Blog" xmlUrl="http://feeds.feedburner.com/symfony/blog" type="rss" text="Symfony Blog"/>
+		<outline htmlUrl="http://www.troyhunt.com/" title="Troy Hunt's Blog" xmlUrl="http://www.troyhunt.com/feeds/posts/default?alt=rss" type="rss" text="Troy Hunt's Blog"/>
+		<outline htmlUrl="http://www.williamdurand.fr" title="William DURAND" xmlUrl="http://williamdurand.fr/atom.xml" type="rss" text="William Durand"/>
+	</body>
+</opml>
