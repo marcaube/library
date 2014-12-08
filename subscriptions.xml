@@ -11,7 +11,7 @@
 		<outline htmlUrl="http://fabien.potencier.org/" title="Fabien Potencier" xmlUrl="http://feeds.fabien.potencier.org/aidedecamp" type="rss" text="Fabien Potencier"/>
 		<outline htmlUrl="https://igor.io/" title="Igor Wiedler" xmlUrl="https://igor.io/index.atom" type="rss" text="Igor Wiedler - igorw"/>
 		<outline htmlUrl="http://seld.be/" title="Jordi Boggiano" xmlUrl="http://feeds.seld.be/blog-seld" type="rss" text="Jordi Boggiano"/>
-		<outline htmlUrl="/" title="Marco piveta" xmlUrl="http://ocramius.github.io/atom.xml" type="rss" text="Marco Piveta - ocramius"/>
+		<outline htmlUrl="http://ocramius.github.io/" title="Marco piveta" xmlUrl="http://ocramius.github.io/atom.xml" type="rss" text="Marco Piveta - ocramius"/>
 		<outline htmlUrl="http://verraes.net/" title="Mathias Verraes" xmlUrl="http://verraes.net/feed.atom" type="rss" text="Mathias Verraes"/>
 		<outline htmlUrl="http://php-and-symfony.matthiasnoback.nl/" title="Matthias Noback - PHP &amp; Symfony" xmlUrl="http://php-and-symfony.matthiasnoback.nl/atom.xml" type="rss" text="Matthias Noback - PHP &amp; Symfony"/>
 		<outline htmlUrl="http://nikic.github.com/" title="nikic's blog" xmlUrl="http://nikic.github.io/rss.xml" type="rss" text="Nikic's Blog"/>
