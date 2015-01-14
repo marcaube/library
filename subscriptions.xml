@@ -22,6 +22,7 @@
 		<outline htmlUrl="http://php-and-symfony.matthiasnoback.nl/" title="Matthias Noback" xmlUrl="http://php-and-symfony.matthiasnoback.nl/atom.xml" type="rss" text="Matthias Noback"/>
 		<outline htmlUrl="http://nikic.github.com/" title="Nikita Popov" xmlUrl="http://nikic.github.io/rss.xml" type="rss" text="Nikita Popov"/>
 		<outline htmlUrl="https://philsturgeon.uk/" title="Phil Sturgeon" xmlUrl="https://philsturgeon.uk/feed.xml" type="rss" text="Phil Sturgeon"/>
+		<outline htmlUrl="http://blog.insight.sensiolabs.com/" title="SensioLabs Insight" xmlUrl="http://blog.insight.sensiolabs.com/atom.xml" type="rss" text="SensioLabs Insight"/>
 		<outline htmlUrl="http://shawnmc.cool" title="Shawn McCool" xmlUrl="http://shawnmc.cool/feed.rss" type="rss" text="Shawn McCool"/>
 		<outline htmlUrl="http://symfony.com/blog/" title="Symfony" xmlUrl="http://feeds.feedburner.com/symfony/blog" type="rss" text="Symfony"/>
 		<outline htmlUrl="http://www.troyhunt.com/" title="Troy Hunt" xmlUrl="http://www.troyhunt.com/feeds/posts/default?alt=rss" type="rss" text="Troy Hunt"/>
