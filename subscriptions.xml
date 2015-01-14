@@ -15,6 +15,7 @@
 		<outline htmlUrl="http://fabien.potencier.org/" title="Fabien Potencier" xmlUrl="http://feeds.fabien.potencier.org/aidedecamp" type="rss" text="Fabien Potencier"/>
 		<outline htmlUrl="http://csswizardry.com/" title="Harry Roberts" xmlUrl="http://feeds.feedburner.com/csswizardrycom" type="rss" text="Harry Roberts"/>
 		<outline htmlUrl="https://igor.io/" title="Igor Wiedler" xmlUrl="https://igor.io/index.atom" type="rss" text="Igor Wiedler"/>
+		<outline htmlUrl="http://jcowie.co.uk/" title="James Cowie" xmlUrl="http://jcowie.co.uk/feed.xml" type="rss" text="James Cowie"/>
 		<outline htmlUrl="http://seld.be/" title="Jordi Boggiano" xmlUrl="http://feeds.seld.be/blog-seld" type="rss" text="Jordi Boggiano"/>
 		<outline htmlUrl="http://ocramius.github.io/" title="Marco Pivetta" xmlUrl="http://ocramius.github.io/atom.xml" type="rss" text="Marco Pivetta"/>
 		<outline htmlUrl="http://verraes.net/" title="Mathias Verraes" xmlUrl="http://verraes.net/feed.atom" type="rss" text="Mathias Verraes"/>
