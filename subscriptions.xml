@@ -11,6 +11,7 @@
 		<outline htmlUrl="http://webmozarts.com" title="Bernhard Schussek" xmlUrl="http://webmozarts.com/feed/" type="rss" text="Bernhard Schussek"/>
 		<outline htmlUrl="http://blog.blackfire.io/" title="Blackfire" xmlUrl="http://blog.blackfire.io/feed/atom.xml" type="rss" text="Blackfire"/>
 		<outline htmlUrl="http://blog.phpdeveloper.org" title="Chris Cornutt" xmlUrl="http://blog.phpdeveloper.org/feed/" type="rss" text="Chris Cornutt"/>
+		<outline htmlUrl="http://fideloper.com/" title="Chris Fidao" xmlUrl="http://fideloper.com/feed" type="rss" text="Chris Fidao"/>
 		<outline htmlUrl="http://everzet.com/" title="Konstantin Kudryashov" xmlUrl="http://everzet.com/rss" type="rss" text="Konstantin Kudryashov"/>
 		<outline htmlUrl="http://fabien.potencier.org/" title="Fabien Potencier" xmlUrl="http://feeds.fabien.potencier.org/aidedecamp" type="rss" text="Fabien Potencier"/>
 		<outline htmlUrl="http://csswizardry.com/" title="Harry Roberts" xmlUrl="http://feeds.feedburner.com/csswizardrycom" type="rss" text="Harry Roberts"/>
@@ -23,10 +24,13 @@
 		<outline htmlUrl="http://php-and-symfony.matthiasnoback.nl/" title="Matthias Noback" xmlUrl="http://php-and-symfony.matthiasnoback.nl/atom.xml" type="rss" text="Matthias Noback"/>
 		<outline htmlUrl="http://nikic.github.com/" title="Nikita Popov" xmlUrl="http://nikic.github.io/rss.xml" type="rss" text="Nikita Popov"/>
 		<outline htmlUrl="https://philsturgeon.uk/" title="Phil Sturgeon" xmlUrl="https://philsturgeon.uk/feed.xml" type="rss" text="Phil Sturgeon"/>
+		<outline htmlUrl="http://rosstuck.com" title="Ross Tuck" xmlUrl="http://rosstuck.com/feed.xml" type="rss" text="Ross Tuck"/>
 		<outline htmlUrl="http://blog.insight.sensiolabs.com/" title="SensioLabs Insight" xmlUrl="http://blog.insight.sensiolabs.com/atom.xml" type="rss" text="SensioLabs Insight"/>
+		<outline htmlUrl="http://shaneauckland.co.uk" title="Shane Auckland" xmlUrl="http://shaneauckland.co.uk/feed/" type="rss" text="Shane Auckland"/>
 		<outline htmlUrl="http://shawnmc.cool" title="Shawn McCool" xmlUrl="http://shawnmc.cool/feed.rss" type="rss" text="Shawn McCool"/>
 		<outline htmlUrl="http://symfony.com/blog/" title="Symfony" xmlUrl="http://feeds.feedburner.com/symfony/blog" type="rss" text="Symfony"/>
 		<outline htmlUrl="http://www.troyhunt.com/" title="Troy Hunt" xmlUrl="http://www.troyhunt.com/feeds/posts/default?alt=rss" type="rss" text="Troy Hunt"/>
 		<outline htmlUrl="http://williamdurand.fr" title="William Durand" xmlUrl="http://williamdurand.fr/atom.xml" type="rss" text="William Durand"/>
+		<outline htmlUrl="https://seabites.wordpress.com/" title="Yves Reynhout" xmlUrl="https://seabites.wordpress.com/feed/" type="rss" text="Yves Reynhout"/>
 	</body>
 </opml>
