@@ -21,6 +21,7 @@
 		<outline htmlUrl="http://jcowie.co.uk/" title="James Cowie" xmlUrl="http://jcowie.co.uk/feed.xml" type="rss" text="James Cowie"/>
 		<outline htmlUrl="http://seld.be/" title="Jordi Boggiano" xmlUrl="http://feeds.seld.be/blog-seld" type="rss" text="Jordi Boggiano"/>
 		<outline htmlUrl="http://jpauli.github.io//" title="Julien Pauli" xmlUrl="http://jpauli.github.io//feed/atom.xml" type="rss" text="Julien Pauli"/>
+		<outline htmlUrl="http://kacper.gunia.me/" title="Kacper Gunia" xmlUrl="http://kacper.gunia.me/blog/rss" type="rss" text="Kacper Gunia"/>
 		<outline htmlUrl="http://everzet.com/" title="Konstantin Kudryashov" xmlUrl="http://everzet.com/rss" type="rss" text="Konstantin Kudryashov"/>
 		<outline htmlUrl="http://ocramius.github.io/" title="Marco Pivetta" xmlUrl="http://ocramius.github.io/atom.xml" type="rss" text="Marco Pivetta"/>
 		<outline htmlUrl="http://verraes.net/" title="Mathias Verraes" xmlUrl="http://verraes.net/feed.atom" type="rss" text="Mathias Verraes"/>
@@ -29,6 +30,7 @@
 		<outline htmlUrl="http://nikic.github.com/" title="Nikita Popov" xmlUrl="http://nikic.github.io/rss.xml" type="rss" text="Nikita Popov"/>
 		<outline htmlUrl="https://philsturgeon.uk/" title="Phil Sturgeon" xmlUrl="https://philsturgeon.uk/feed.xml" type="rss" text="Phil Sturgeon"/>
 		<outline htmlUrl="https://www.phproundtable.com" title="PHP Roundtable" xmlUrl="http://feeds.feedburner.com/PhpRoundtable" type="rss" text="PHP Roundtable"/>
+		<outline htmlUrl="http://codeofrob.com" title="Rob Ashton" xmlUrl="http://feed.codeofrob.com/robashton&x=1" type="rss" text="Rob Ashton"/>
 		<outline htmlUrl="http://rosstuck.com" title="Ross Tuck" xmlUrl="http://rosstuck.com/feed.xml" type="rss" text="Ross Tuck"/>
 		<outline htmlUrl="http://blog.insight.sensiolabs.com/" title="SensioLabs Insight" xmlUrl="http://blog.insight.sensiolabs.com/atom.xml" type="rss" text="SensioLabs Insight"/>
 		<outline htmlUrl="http://shaneauckland.co.uk" title="Shane Auckland" xmlUrl="http://shaneauckland.co.uk/feed/" type="rss" text="Shane Auckland"/>
