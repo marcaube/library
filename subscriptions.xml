@@ -13,13 +13,15 @@
 		<outline htmlUrl="http://blog.blackfire.io/" title="Blackfire" xmlUrl="http://blog.blackfire.io/feed/atom.xml" type="rss" text="Blackfire"/>
 		<outline htmlUrl="http://blog.phpdeveloper.org" title="Chris Cornutt" xmlUrl="http://blog.phpdeveloper.org/feed/" type="rss" text="Chris Cornutt"/>
 		<outline htmlUrl="http://fideloper.com/" title="Chris Fidao" xmlUrl="http://fideloper.com/feed" type="rss" text="Chris Fidao"/>
+		<outline htmlUrl="https://createopen.com//" title="Dave Hulbert" xmlUrl="http://createopen.com/feed.xml" type="rss" text="Dave Hulbert"/>
 		<outline htmlUrl="http://www.devdiscussions.com" title="Dev Discussions" xmlUrl="http://simplecast.fm/podcasts/342/rss" type="rss" text="Dev Discussions"/>
-		<outline htmlUrl="http://everzet.com/" title="Konstantin Kudryashov" xmlUrl="http://everzet.com/rss" type="rss" text="Konstantin Kudryashov"/>
 		<outline htmlUrl="http://fabien.potencier.org/" title="Fabien Potencier" xmlUrl="http://feeds.fabien.potencier.org/aidedecamp" type="rss" text="Fabien Potencier"/>
 		<outline htmlUrl="http://csswizardry.com/" title="Harry Roberts" xmlUrl="http://feeds.feedburner.com/csswizardrycom" type="rss" text="Harry Roberts"/>
 		<outline htmlUrl="https://igor.io/" title="Igor Wiedler" xmlUrl="https://igor.io/index.atom" type="rss" text="Igor Wiedler"/>
 		<outline htmlUrl="http://jcowie.co.uk/" title="James Cowie" xmlUrl="http://jcowie.co.uk/feed.xml" type="rss" text="James Cowie"/>
 		<outline htmlUrl="http://seld.be/" title="Jordi Boggiano" xmlUrl="http://feeds.seld.be/blog-seld" type="rss" text="Jordi Boggiano"/>
+		<outline htmlUrl="http://jpauli.github.io//" title="Julien Pauli" xmlUrl="http://jpauli.github.io//feed/atom.xml" type="rss" text="Julien Pauli"/>
+		<outline htmlUrl="http://everzet.com/" title="Konstantin Kudryashov" xmlUrl="http://everzet.com/rss" type="rss" text="Konstantin Kudryashov"/>
 		<outline htmlUrl="http://ocramius.github.io/" title="Marco Pivetta" xmlUrl="http://ocramius.github.io/atom.xml" type="rss" text="Marco Pivetta"/>
 		<outline htmlUrl="http://verraes.net/" title="Mathias Verraes" xmlUrl="http://verraes.net/feed.atom" type="rss" text="Mathias Verraes"/>
 		<outline htmlUrl="http://mwop.net/blog" title="Matthew Weier O'Phinney" xmlUrl="https://mwop.net/blog/rss.xml" type="rss" text="Matthew Weier O'Phinney"/>
