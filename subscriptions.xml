@@ -5,6 +5,7 @@
 	</head>
 	<body>
 		<outline htmlUrl="http://blog.8thlight.com/" title="8th Light Blog" xmlUrl="http://blog.8thlight.com/feed/atom.xml" type="rss" text="8th Light Blog"/>
+		<outline htmlUrl="http://blog.toolshed.com/" title="Andy Hunt" xmlUrl="http://blog.toolshed.com/atom.xml" type="rss" text="Andy Hunt"/>
 		<outline htmlUrl="http://blog.ircmaxell.com/" title="Anthony Ferrara" xmlUrl="http://blog.ircmaxell.com/feeds/posts/default?alt=rss" type="rss" text="Anthony Ferrara"/>
 		<outline htmlUrl="http://srcmvn.com/" title="Beau Simensen" xmlUrl="http://srcmvn.com/atom.xml" type="rss" text="Beau Simensen"/>
 		<outline htmlUrl="http://beingtheworst.com" title="Being the Worst" xmlUrl="http://beingtheworst.com/feed" type="rss" text="Being the Worst"/>
@@ -24,6 +25,7 @@
 		<outline htmlUrl="http://kacper.gunia.me/" title="Kacper Gunia" xmlUrl="http://kacper.gunia.me/blog/rss" type="rss" text="Kacper Gunia"/>
 		<outline htmlUrl="http://everzet.com/" title="Konstantin Kudryashov" xmlUrl="http://everzet.com/rss" type="rss" text="Konstantin Kudryashov"/>
 		<outline htmlUrl="http://ocramius.github.io/" title="Marco Pivetta" xmlUrl="http://ocramius.github.io/atom.xml" type="rss" text="Marco Pivetta"/>
+		<outline htmlUrl="http://martinfowler.com" title="Martin Fowler" xmlUrl="http://martinfowler.com/feed.atom" type="rss" text="Martin Fowler"/>
 		<outline htmlUrl="http://verraes.net/" title="Mathias Verraes" xmlUrl="http://verraes.net/feed.atom" type="rss" text="Mathias Verraes"/>
 		<outline htmlUrl="http://mwop.net/blog" title="Matthew Weier O'Phinney" xmlUrl="https://mwop.net/blog/rss.xml" type="rss" text="Matthew Weier O'Phinney"/>
 		<outline htmlUrl="http://php-and-symfony.matthiasnoback.nl/" title="Matthias Noback" xmlUrl="http://php-and-symfony.matthiasnoback.nl/atom.xml" type="rss" text="Matthias Noback"/>
