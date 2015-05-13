@@ -14,6 +14,7 @@
 		<outline htmlUrl="http://blog.blackfire.io/" title="Blackfire" xmlUrl="http://blog.blackfire.io/feed/atom.xml" type="rss" text="Blackfire"/>
 		<outline htmlUrl="http://blog.phpdeveloper.org" title="Chris Cornutt" xmlUrl="http://blog.phpdeveloper.org/feed/" type="rss" text="Chris Cornutt"/>
 		<outline htmlUrl="http://fideloper.com/" title="Chris Fidao" xmlUrl="http://fideloper.com/feed" type="rss" text="Chris Fidao"/>
+		<outline htmlUrl="https://codeascraft.com" title="Code as Craft (Etsy)" xmlUrl="https://codeascraft.com/feed/atom/" type="rss" text="Code as Craft (Etsy)"/>
 		<outline htmlUrl="https://createopen.com//" title="Dave Hulbert" xmlUrl="http://createopen.com/feed.xml" type="rss" text="Dave Hulbert"/>
 		<outline htmlUrl="http://www.devdiscussions.com" title="Dev Discussions" xmlUrl="http://simplecast.fm/podcasts/342/rss" type="rss" text="Dev Discussions"/>
 		<outline htmlUrl="http://fabien.potencier.org/" title="Fabien Potencier" xmlUrl="http://feeds.fabien.potencier.org/aidedecamp" type="rss" text="Fabien Potencier"/>
