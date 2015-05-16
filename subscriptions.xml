@@ -33,6 +33,7 @@
 		<outline htmlUrl="http://nikic.github.com/" title="Nikita Popov" xmlUrl="http://nikic.github.io/rss.xml" type="rss" text="Nikita Popov"/>
 		<outline htmlUrl="https://philsturgeon.uk/" title="Phil Sturgeon" xmlUrl="https://philsturgeon.uk/feed.xml" type="rss" text="Phil Sturgeon"/>
 		<outline htmlUrl="https://www.phproundtable.com" title="PHP Roundtable" xmlUrl="http://feeds.feedburner.com/PhpRoundtable" type="rss" text="PHP Roundtable"/>
+		<outline htmlUrl="http://abdullin.com" title="Rinat Abdullin" xmlUrl="http://abdullin.com/atom.xml" type="rss" text="Rinat Abdullin"/>
 		<outline htmlUrl="http://codeofrob.com" title="Rob Ashton" xmlUrl="http://feed.codeofrob.com/robashton&x=1" type="rss" text="Rob Ashton"/>
 		<outline htmlUrl="http://rosstuck.com" title="Ross Tuck" xmlUrl="http://rosstuck.com/feed.xml" type="rss" text="Ross Tuck"/>
 		<outline htmlUrl="http://blog.insight.sensiolabs.com/" title="SensioLabs Insight" xmlUrl="http://blog.insight.sensiolabs.com/atom.xml" type="rss" text="SensioLabs Insight"/>
