@@ -42,6 +42,7 @@
 		<outline htmlUrl="http://shaneauckland.co.uk" title="Shane Auckland" xmlUrl="http://shaneauckland.co.uk/feed/" type="rss" text="Shane Auckland"/>
 		<outline htmlUrl="http://shawnmc.cool" title="Shawn McCool" xmlUrl="http://shawnmc.cool/feed.rss" type="rss" text="Shawn McCool"/>
 		<outline htmlUrl="http://symfony.com/blog/" title="Symfony" xmlUrl="http://feeds.feedburner.com/symfony/blog" type="rss" text="Symfony"/>
+		<outline htmlUrl="http://taylorotwell.com" title="Taylor Otwell" xmlUrl="http://taylorotwell.com/feed/" type="rss" text="Taylor Otwell"/>
 		<outline htmlUrl="http://www.troyhunt.com/" title="Troy Hunt" xmlUrl="http://www.troyhunt.com/feeds/posts/default?alt=rss" type="rss" text="Troy Hunt"/>
 		<outline htmlUrl="http://williamdurand.fr" title="William Durand" xmlUrl="http://williamdurand.fr/atom.xml" type="rss" text="William Durand"/>
 		<outline htmlUrl="https://seabites.wordpress.com/" title="Yves Reynhout" xmlUrl="https://seabites.wordpress.com/feed/" type="rss" text="Yves Reynhout"/>
