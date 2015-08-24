@@ -7,6 +7,7 @@
 		<outline htmlUrl="http://blog.8thlight.com/" title="8th Light Blog" xmlUrl="http://blog.8thlight.com/feed/atom.xml" type="rss" text="8th Light Blog"/>
 		<outline htmlUrl="http://blog.toolshed.com/" title="Andy Hunt" xmlUrl="http://blog.toolshed.com/atom.xml" type="rss" text="Andy Hunt"/>
 		<outline htmlUrl="http://blog.ircmaxell.com/" title="Anthony Ferrara" xmlUrl="http://blog.ircmaxell.com/feeds/posts/default?alt=rss" type="rss" text="Anthony Ferrara"/>
+		<outline htmlUrl="http://arlobelshee.com" title="Arlo Belshee" xmlUrl="http://arlobelshee.com/feed/" type="rss" text="Arlo Belshee"/>
 		<outline htmlUrl="http://srcmvn.com/" title="Beau Simensen" xmlUrl="http://srcmvn.com/atom.xml" type="rss" text="Beau Simensen"/>
 		<outline htmlUrl="http://beingtheworst.com" title="Being the Worst" xmlUrl="http://beingtheworst.com/feed" type="rss" text="Being the Worst"/>
 		<outline htmlUrl="http://www.whitewashing.de/" title="Benjamin Eberlei" xmlUrl="http://www.whitewashing.de/rss.xml" type="rss" text="Benjamin Eberlei"/>
