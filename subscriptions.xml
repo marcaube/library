@@ -25,6 +25,7 @@
 		<outline htmlUrl="http://seld.be/" title="Jordi Boggiano" xmlUrl="http://feeds.seld.be/blog-seld" type="rss" text="Jordi Boggiano"/>
 		<outline htmlUrl="http://jpauli.github.io//" title="Julien Pauli" xmlUrl="http://jpauli.github.io//feed/atom.xml" type="rss" text="Julien Pauli"/>
 		<outline htmlUrl="http://kacper.gunia.me/" title="Kacper Gunia" xmlUrl="http://kacper.gunia.me/blog/rss" type="rss" text="Kacper Gunia"/>
+		<outline htmlUrl="http://www.youtube.com/channel/UC1KGi4QcodA572IERfO3sUg" title="Kayla Daniels #NoCapes" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1KGi4QcodA572IERfO3sUg" type="rss" text="Kayla Daniels #NoCapes"/>
 		<outline htmlUrl="http://everzet.com/" title="Konstantin Kudryashov" xmlUrl="http://everzet.com/rss" type="rss" text="Konstantin Kudryashov"/>
 		<outline htmlUrl="http://ocramius.github.io/" title="Marco Pivetta" xmlUrl="http://ocramius.github.io/atom.xml" type="rss" text="Marco Pivetta"/>
 		<outline htmlUrl="http://martinfowler.com" title="Martin Fowler" xmlUrl="http://martinfowler.com/feed.atom" type="rss" text="Martin Fowler"/>
