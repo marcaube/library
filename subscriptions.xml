@@ -32,6 +32,7 @@
 		<outline htmlUrl="http://verraes.net/" title="Mathias Verraes" xmlUrl="http://verraes.net/feed.atom" type="rss" text="Mathias Verraes"/>
 		<outline htmlUrl="http://mwop.net/blog" title="Matthew Weier O'Phinney" xmlUrl="https://mwop.net/blog/rss.xml" type="rss" text="Matthew Weier O'Phinney"/>
 		<outline htmlUrl="http://php-and-symfony.matthiasnoback.nl/" title="Matthias Noback" xmlUrl="http://php-and-symfony.matthiasnoback.nl/atom.xml" type="rss" text="Matthias Noback"/>
+		<outline htmlUrl="http://www.mehdi-khalili.com/" title="Mehdi Khalili" xmlUrl="http://www.mehdi-khalili.com/feed.xml" type="rss" text="Mehdi Khalili"/>
 		<outline htmlUrl="http://nicolopignatelli.me/" title="Nicolò Pignatelli" xmlUrl="http://nicolopignatelli.me/rss/" type="rss" text="Nicolò Pignatelli"/>
 		<outline htmlUrl="http://nikic.github.com/" title="Nikita Popov" xmlUrl="http://nikic.github.io/rss.xml" type="rss" text="Nikita Popov"/>
 		<outline htmlUrl="http://paul-m-jones.org" title="Paul M. Jones" xmlUrl="http://paul-m-jones.org/feed" type="rss" text="Paul M. Jones"/>
