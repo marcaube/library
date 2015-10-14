@@ -38,6 +38,7 @@
 		<outline htmlUrl="http://paul-m-jones.org" title="Paul M. Jones" xmlUrl="http://paul-m-jones.org/feed" type="rss" text="Paul M. Jones"/>
 		<outline htmlUrl="https://philsturgeon.uk/" title="Phil Sturgeon" xmlUrl="https://philsturgeon.uk/feed.xml" type="rss" text="Phil Sturgeon"/>
 		<outline htmlUrl="https://www.phproundtable.com" title="PHP Roundtable" xmlUrl="http://feeds.feedburner.com/PhpRoundtable" type="rss" text="PHP Roundtable"/>
+		<outline htmlUrl="http://labs.qandidate.com/" title="labs @ Qandidate.com" xmlUrl="http://labs.qandidate.com/atom.xml" type="rss" text="labs @ Qandidate.com"/>
 		<outline htmlUrl="http://abdullin.com" title="Rinat Abdullin" xmlUrl="http://abdullin.com/atom.xml" type="rss" text="Rinat Abdullin"/>
 		<outline htmlUrl="http://codeofrob.com" title="Rob Ashton" xmlUrl="http://feed.codeofrob.com/robashton&x=1" type="rss" text="Rob Ashton"/>
 		<outline htmlUrl="http://rosstuck.com" title="Ross Tuck" xmlUrl="http://rosstuck.com/feed.xml" type="rss" text="Ross Tuck"/>
