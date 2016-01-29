@@ -5,6 +5,7 @@
 	</head>
 	<body>
 		<outline htmlUrl="http://blog.8thlight.com/" title="8th Light Blog" xmlUrl="http://blog.8thlight.com/feed/atom.xml" type="rss" text="8th Light Blog"/>
+		<outline htmlUrl="http://adamwathan.me/" title="Adam Wathan" xmlUrl="http://adamwathan.me/rss" type="rss" text="Adam Wathan"/>
 		<outline htmlUrl="http://blog.toolshed.com/" title="Andy Hunt" xmlUrl="http://blog.toolshed.com/atom.xml" type="rss" text="Andy Hunt"/>
 		<outline htmlUrl="http://blog.ircmaxell.com/" title="Anthony Ferrara" xmlUrl="http://blog.ircmaxell.com/feeds/posts/default?alt=rss" type="rss" text="Anthony Ferrara"/>
 		<outline htmlUrl="http://arlobelshee.com" title="Arlo Belshee" xmlUrl="http://arlobelshee.com/feed/" type="rss" text="Arlo Belshee"/>
@@ -13,6 +14,7 @@
 		<outline htmlUrl="http://www.whitewashing.de/" title="Benjamin Eberlei" xmlUrl="http://www.whitewashing.de/rss.xml" type="rss" text="Benjamin Eberlei"/>
 		<outline htmlUrl="http://webmozarts.com" title="Bernhard Schussek" xmlUrl="http://webmozarts.com/feed/" type="rss" text="Bernhard Schussek"/>
 		<outline htmlUrl="http://blog.blackfire.io/" title="Blackfire" xmlUrl="http://blog.blackfire.io/feed/atom.xml" type="rss" text="Blackfire"/>
+		<outline htmlUrl="http://krebsonsecurity.com" title="Krebs on Security" xmlUrl="http://krebsonsecurity.com/feed/" type="rss" text="Brian Krebs"/>
 		<outline htmlUrl="http://blog.phpdeveloper.org" title="Chris Cornutt" xmlUrl="http://blog.phpdeveloper.org/feed/" type="rss" text="Chris Cornutt"/>
 		<outline htmlUrl="http://fideloper.com/" title="Chris Fidao" xmlUrl="http://fideloper.com/feed" type="rss" text="Chris Fidao"/>
 		<outline htmlUrl="https://codeascraft.com" title="Code as Craft (Etsy)" xmlUrl="https://codeascraft.com/feed/atom/" type="rss" text="Code as Craft (Etsy)"/>
